@@ -1,0 +1,10 @@
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/final[[:space:]]dashboard.pbix filter=lfs diff=lfs merge=lfs -text
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/cleaned_Website_sessions.xlsx filter=lfs diff=lfs merge=lfs -text
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/cleaned_website_pageviews.xlsx filter=lfs diff=lfs merge=lfs -text
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/cleaned_website_sessions.xlsx filter=lfs diff=lfs merge=lfs -text
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/cleaned_website_pageviews.csv filter=lfs diff=lfs merge=lfs -text
+D:/data[[:space:]]analytics/Toy[[:space:]]Ecommerce[[:space:]]dataset/Maven+Fuzzy+Factory/cleaned_website_sessions.csv filter=lfs diff=lfs merge=lfs -text
+*.pbix filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xls filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
